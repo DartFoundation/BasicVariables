@@ -1,4 +1,4 @@
-import 'package:basic_bariables/basic_bariables.dart';
+import 'package:basic_variables/basic_variables.dart';
 import 'package:test/test.dart';
 
 void main() {
